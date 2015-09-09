@@ -1,0 +1,24 @@
+{
+  "name": "aligner-python",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Python support for Aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "python"
+  ],
+  "repository": "https://github.com/adrianlee44/atom-aligner-python",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "aligner.provider": {
+      "versions": {
+        "1.0.0": "getProvider"
+      }
+    }
+  }
+}
