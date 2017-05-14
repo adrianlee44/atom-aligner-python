@@ -2,6 +2,16 @@
 
 [Aligner](https://github.com/adrianlee44/atom-aligner) add-on to support Python.
 
+## Supported operators
+`:`:
+```python
+colors = {
+    "red":    "ff0000",
+    "blue":   "0000ff",
+    "yellow": "ffff00"
+}
+```
+
 ## Installation
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
 
