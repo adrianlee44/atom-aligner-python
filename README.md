@@ -11,6 +11,12 @@ colors = {
     "yellow": "ffff00"
 }
 ```
+`=`: assignment
+```python
+someArray = [0, 1]
+zero      = 0
+
+```
 
 ## Installation
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
