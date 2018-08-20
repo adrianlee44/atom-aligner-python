@@ -9,7 +9,7 @@
     "align",
     "python"
   ],
-  "repository": "https://github.com/adrianlee44/atom-aligner-python",
+  "repository": "git@github.com:adrianlee44/atom-aligner-python.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
