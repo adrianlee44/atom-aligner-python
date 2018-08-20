@@ -22,6 +22,7 @@ zero      = 0
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
 
 ## Changelog
+- 2018-08-19   v1.2.0   Add support for MagicPython
 - 2017-05-21   v1.1.0   Add support for `=` and embedded python
 - 2017-05-13   v1.0.2   Update documentation
 - 2015-09-13   v1.0.1   Fix invalid copy in config
